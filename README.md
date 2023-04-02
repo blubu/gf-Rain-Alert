@@ -1,4 +1,4 @@
-# gf-Rain-Alert
+# gf-rain-alert
 Send a rain alert sms to your girlfriend and remind her to take an umbrella.
 - has several umbrella quotes included to make each message unique and exciting
 - has many nicknames included to make her feel special
